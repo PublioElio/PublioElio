@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PublioElio
-- 👀 I’m interested in programming, agile, DevOps, security, network & system administration
+- 👀 I’m interested in software development, agile methodologies, DevOps, security, network & system administration
 - 🌱 I’m currently learning C, Shell, Java and Python
