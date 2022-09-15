@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif">
+  <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif" width="250"/>
 </div>
 
 - 👋 Hi, I’m @PublioElio
