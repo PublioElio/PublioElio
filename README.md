@@ -5,6 +5,12 @@
 - 👋 Hi, I’m @PublioElio
 - 👀 I’m interested in software development, agile methodologies, DevOps, security, network & system administration
 - 🌱 I’m currently learning C, Shell, Java and Python
+- You can connect with me also in:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/adrianodiaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 ### Glad to see you here! 
