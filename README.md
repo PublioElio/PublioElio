@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning C, Shell, Java and Python
 
 
-### ¡Un placer saludarte! 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PublioElio.README.md&left_color=red&right_color=black&left_text=Eres%20el%20visitante%20número:)
+### Glad to see you here! 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PublioElio.README.md&left_color=red&right_color=black&left_text=Visitor%20number)
 
