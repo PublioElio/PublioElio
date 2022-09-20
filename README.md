@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @PublioElio
 - 👀 I’m interested in software development, agile methodologies, DevOps, security, network & system administration
-- 🌱 I’m currently learning C, Shell, Java and Python
+- 🌱 I’m currently learning C, Shell :penguin:, Java :coffee: and Python :snake:
 - You can connect with me also in:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adrianodiaz/">
