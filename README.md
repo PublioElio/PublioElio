@@ -12,7 +12,9 @@
   </a>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PublioElio&hide=prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublioElio)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Glad to see you here! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PublioElio.README.md&left_color=red&right_color=black&left_text=Visitor%20number)
-
