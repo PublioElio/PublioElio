@@ -21,4 +21,4 @@
 
 ***
 
-### If you find my useful any of my repositories, a star 🌟 would be nice! :blush:
+### If you find useful any of my repositories, a star 🌟 would be nice! :blush:
