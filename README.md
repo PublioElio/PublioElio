@@ -18,9 +18,9 @@
 
 ---
 
-### Glad to see you here! 
+<h4 align="center"> Glad to see you here! </h4>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PublioElio.README.md&left_color=red&right_color=black&left_text=Visitor%20number)
 
 ***
 
-### If you find useful any of my repositories, a star 🌟 would be nice! :blush:
+<h3 align="center"> If you find useful any of my repositories, a star 🌟 would be nice! :blush: </h3>
