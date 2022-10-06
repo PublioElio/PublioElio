@@ -24,6 +24,4 @@
 <img alt="PublioElio's visitors" src="https://komarev.com/ghpvc/?username=PublioElio&color=red&style=flat&label=visitors" />
 </div>
 
-***
-
 <h3 align="center"> If you find useful any of my repositories, a star 🌟 would be nice! :blush: </h3>
