@@ -19,7 +19,10 @@
 ---
 
 <h4 align="center"> Glad to see you here! </h4>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PublioElio.README.md&left_color=red&right_color=black&left_text=Visitor%20number)
+
+<div align="center">
+<img alt="PublioElio's visitors" src="https://komarev.com/ghpvc/?username=PublioElio&color=red&style=flat&label=visitors" />
+</div>
 
 ***
 
