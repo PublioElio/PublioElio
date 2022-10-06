@@ -21,7 +21,10 @@
 <h4 align="center"> Glad to see you here! </h4>
 
 <div align="center">
-<img alt="PublioElio's visitors" src="https://komarev.com/ghpvc/?username=PublioElio&color=red&style=flat&label=visitors" />
+  <img alt="PublioElio's visitors" src="https://komarev.com/ghpvc/?username=PublioElio&color=red&style=flat&label=visitors" />
+  <a href="https://www.linkedin.com/in/adrianodiaz/">
+    <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1  style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianodiaz/" />
+  </a>
 </div>
 
 <h3 align="center"> If you find useful any of my repositories, a star 🌟 would be nice! :blush: </h3>
