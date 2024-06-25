@@ -23,13 +23,13 @@
 #### Frameworks and Libraries:
 [![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.postman.com/)
+[![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/es/database/technologies/appdev/sql.html)
 
 #### ERP:
 [![Odoo](https://img.shields.io/badge/odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
@@ -40,6 +40,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Apache NetBeans IDE](https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/es-es/pycharm/)
 [![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipseide.org/)
 
 #### Scripting:
@@ -58,6 +59,7 @@
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Jira Software](https://img.shields.io/badge/jira%20software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/es/software/jira)
+[![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-es.html)
 
 [//]: <> (https://simpleicons.org/)
 
