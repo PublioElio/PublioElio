@@ -27,7 +27,7 @@
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.postman.com/)
 
@@ -39,10 +39,11 @@
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Apache NetBeans IDE](https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
 [![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipseide.org/)
 
 #### Scripting:
-![GNU Bash](https://img.shields.io/badge/gnubash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### Testing:
 [![JUnit5](https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
@@ -58,7 +59,7 @@
 [![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Jira Software](https://img.shields.io/badge/jira%20software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/es/software/jira)
 
-[//]: <> ( https://simpleicons.org/)
+[//]: <> (https://simpleicons.org/)
 
 ## Let's keep in touch!
 <div id="badges" align="center">
