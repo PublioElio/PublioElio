@@ -24,6 +24,7 @@
 [![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
+[![Node.js](https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 
 #### Databases:
 [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
