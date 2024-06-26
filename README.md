@@ -46,6 +46,7 @@
 
 #### Scripting:
 ![GNU Bash](https://img.shields.io/badge/GNU%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Power Shell](https://img.shields.io/badge/power%20shell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 #### Testing:
 [![JUnit5](https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
@@ -55,17 +56,24 @@
 #### Version control:
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-#### Tools:
-[![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+#### Build tools:
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+
+#### Poject management:
 [![Jira Software](https://img.shields.io/badge/jira%20software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/es/software/jira)
+[![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://trello.com/)
+[![Trello](https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+
+#### API development tools:
+[![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-es.html)
 
 [//]: <> (https://simpleicons.org/)
 
-## Let's keep in touch!
 <div id="badges" align="center">
+  <h3>Let's keep in touch!</h3>
   <a href="https://www.linkedin.com/in/adrianodiaz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
