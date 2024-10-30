@@ -39,7 +39,7 @@
 #### IDEs:
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-grey.svg?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Apache NetBeans IDE](https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/es-es/pycharm/)
@@ -72,7 +72,7 @@
 [![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-es.html)
 
 #### Cloud:
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=glooglegcloud&logoColor=white)](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=emea-es-all-en-bkws-all-all-trial-e-gcp-1707574&utm_content=text-ad-none-any-DEV_c-CRE_500236788684-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-+GCP+-+General+-+v1-KWID_43700060384861654-kwd-6458750523-userloc_9216502&utm_term=KW_google%20cloud-NET_g-PLAC_&&gad_source=1&gclid=Cj0KCQjwsoe5BhDiARIsAOXVoUvY8GKpY0Uy4N4AfbW4jp89feM8tD-Y1K_INBfZH2Ila9tDR_9XFL8aAhE3EALw_wcB&gclsrc=aw.ds)
+[![Google Cloud](https://img.shields.io/badge/google%cloud-4285F4.svg?style=for-the-badge&logo=glooglegcloud&logoColor=white)](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=emea-es-all-en-bkws-all-all-trial-e-gcp-1707574&utm_content=text-ad-none-any-DEV_c-CRE_500236788684-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-+GCP+-+General+-+v1-KWID_43700060384861654-kwd-6458750523-userloc_9216502&utm_term=KW_google%20cloud-NET_g-PLAC_&&gad_source=1&gclid=Cj0KCQjwsoe5BhDiARIsAOXVoUvY8GKpY0Uy4N4AfbW4jp89feM8tD-Y1K_INBfZH2Ila9tDR_9XFL8aAhE3EALw_wcB&gclsrc=aw.ds)
 [![MongoDB](https://img.shields.io/badge/mongodb-GA248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 
