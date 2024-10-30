@@ -31,6 +31,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/es/database/technologies/appdev/sql.html)
+[![MongoDB](https://img.shields.io/badge/mongodb-GA248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 #### ERP:
 [![Odoo](https://img.shields.io/badge/odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
