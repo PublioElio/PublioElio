@@ -39,7 +39,7 @@
 #### IDEs:
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-grey.svg?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Apache NetBeans IDE](https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/es-es/pycharm/)
