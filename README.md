@@ -44,6 +44,7 @@
 [![Apache NetBeans IDE](https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/es-es/pycharm/)
 [![Eclipse IDE](https://img.shields.io/badge/eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipseide.org/)
+![DBeaver Badge](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff&style=for-the-badge)
 
 #### Scripting:
 ![GNU Bash](https://img.shields.io/badge/GNU%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
